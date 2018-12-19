@@ -1,0 +1,23 @@
+.imprimante{
+
+    width: 25%; 
+    margin-left: 37%;
+    margin-right: auto;
+    height: 10%;
+
+}
+
+.structure{
+    
+    width:44%;
+    height: 4%;
+    margin:3%;
+}
+
+.presentation{
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+
+

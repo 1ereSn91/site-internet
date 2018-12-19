@@ -1,0 +1,52 @@
+
+.eleves{
+    width: 40%;
+    margin: 0px;
+    text-align: left;
+}
+.futur{
+    width: 40%;
+    margin: 0;
+    text-align: right;
+}
+.titre1{
+    text-align: center;
+}
+.classe {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+li{
+    margin-bottom: 15px;/*à adapter*/
+}
+.titre2{
+    text-align: center;
+}
+.laclasse{
+    margin-left: 15%; 
+    margin-right: 15%;
+}
+.imgphoto-de-la-classe{
+    width: 20%;
+    margin-left: 10%;
+}
+.imgphoto-classe-de-cours{
+    width: 20%;
+    margin-left: 10%;
+}
+.imgphoto-de-la-reserve{
+    width: 20%;
+    margin-left: 10%
+}
+
+
+
+

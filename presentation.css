@@ -1,0 +1,50 @@
+.titre{
+    width: 60%;
+    text-align: center;
+}
+
+.logonds{
+    display: flex;
+    flex-wrap: wrap;
+    width: 8%;
+    height: 2%;
+    margin:auto;
+    border-color: black;
+    border-style: solid;
+}
+
+.photosion{
+   flex-wrap: wrap;
+   width: 25%;
+   height:5%;
+}
+
+.photosiondeux{
+    flex-wrap: wrap;
+    width: 25%;
+    height: 5%;
+}
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+   
+}
+
+.Maps{
+
+    text-align: center;
+    border-color: black;
+       border-style: solid;
+   }
+   
+   
+   .Capture_projet_sn{
+   
+       display: flex;
+       flex-wrap: wrap;
+       width: 40%;
+       margin: auto;
+   }
+   

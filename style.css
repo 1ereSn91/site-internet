@@ -1,0 +1,51 @@
+body {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #DCDCDC;
+}
+
+
+.logo {
+
+    text-align: left;
+}
+
+header {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: grey;
+    border-color: black;
+    border-style: solid;
+}
+
+.titre{
+
+    width: 60%;
+    text-align: center;
+
+}
+
+.contact{
+
+    width:15%;
+    text-align: right;
+}
+
+.menu{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.eltmenu{
+
+    width: 20%; 
+    height: 10%;
+    margin: 3%;
+    margin-left: 2%;
+}
+
+
+
